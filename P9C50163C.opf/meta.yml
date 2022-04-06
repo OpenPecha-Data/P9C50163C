@@ -1,0 +1,33 @@
+id: P9C50163C
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG6161
+  instance_id: http://purl.bdrc.io/resource/IE1KG6161
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - རྫོགས་ཆེན་ཟབ་ཆོས་ཕྱོགས་བསྒྲིགས་མན་ངག་ནོར་བུའི་གཏེར་མཛོད།
+  alt_title:
+    zh-hans:
+    - 修心知识精粹
+    en-x-mixed:
+    - Rdzogs chen zab chos phyogs bsgrigs man ṅag nor buʼi gter mdzod.
+  author: http://purl.bdrc.io/resource/P1583
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    98a80c34fa484fb3b83bdfa0541bf959:
+      title: པོད་རྫོགས་ཆེན་ཟབ་ཆོས་ཕྱོགས་བསྒྲིགས་མན་ངག་ནོར་བུའི་གཏེར་མཛོད།
+      volume_number: 1
+      base_file: UT1KG6161_WI9IWD_U_0000.txt
+      reference: http://purl.bdrc.io/resource/VL617B740209BD1A99
+      image_group: WI9IWD_U
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG6161
+  - http://purl.bdrc.io/resource/W1KG6161
+  ocr_software: Namsel
+created_at: '2021-12-22T10:56:23.403123'
+last_modified_at: '2021-12-22T10:56:23.403131'
